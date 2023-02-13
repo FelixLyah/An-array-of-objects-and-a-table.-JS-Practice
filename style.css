@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    border: 2px solid green;
+}
+
+html{
+    height: 100%;
+}
+
+td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
+
+table input{
+    width: 50px;
+    min-width: 100%;
+}
